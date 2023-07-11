@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diecavi
-- 👀 I’m interested in blockchain and interactive web programming
+- 👀 I’m interested in interactive web programming
 - 🌱 I’m currently learning Python, Java Script, ... everything, I'm a newbie
 - 💞️ I’m looking to collaborate on (I don't know)
 - 📫 How to reach me (by email)
